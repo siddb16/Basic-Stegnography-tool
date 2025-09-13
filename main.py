@@ -20,6 +20,7 @@ def img_encode():
     print(img_array)
     img_array[:,:,0]=(img_array[:,:,0] & 0xFE) | 1
     print(img_array)
-    #dddd
+    #ddddgit 
+    #ddd
 
 img_encode()
